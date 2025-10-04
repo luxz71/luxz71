@@ -23,7 +23,7 @@
     <a href="https://github.com/luxz71" target="blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
-    <a href="https://discord.com/Arlex2#7875" target="blank">
+    <a href="https://discord.gg/uPjWEQvD" target="blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank" />
     </a>
   </p>
