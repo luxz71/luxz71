@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luxz</h1>
 <h3 align="center">A passionate Web3 Developer building a more sophisticated financial world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxz71&label=Profile%20views&color=0e75b6&style=flat" alt="luxz71" /> </p>
 
 - 🌱 I’m currently building with **Foundry and learning more about MEV (Maximal Extractable Value)**.
-- 💬 Ask me anything about turning Web2 ideas into decentralized Web3 applications.
 - 📫 Open for collaboration, reach me at **xxnovie@gmail.com** or on **Twitter/X @Luxz**.
 - ⚡ Fun fact: **The first "NFT" was actually minted on the Namecoin blockchain way back in 2014.**
 
