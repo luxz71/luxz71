@@ -28,7 +28,7 @@
 </details>
 
 <details align="center">
-  <summary><b>⚔️ Languages-Frameworks-Tools ⚔️</b></summary>
+  <summary><b>⚔️Languages-Frameworks-Tools⚔️</b></summary>
   <br>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,tailwind,git" />
