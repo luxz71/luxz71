@@ -13,6 +13,6 @@
   <br>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vscode,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,solidity,javascript,hibernate" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,solidity,javascript,python" /><br>
   </div>
 </details>
