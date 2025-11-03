@@ -12,7 +12,7 @@
   <summary><b>⚔️Languages-Frameworks-Tools⚔️</b></summary>
   <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,solidity,python,javascript,cpp,php,rust,hibernate,golang,arch" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,solidity,javascript,hibernate" /><br>
   </div>
 </details>
